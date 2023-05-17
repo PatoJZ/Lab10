@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Usuario/Documents/Visual/Lab9",
-      "program": "c:/Users/Usuario/Documents/Visual/Lab9/build/Debug/outDebug",
+      "cwd": "c:/Users/Usuario/Documents/Visual/Lab10",
+      "program": "c:/Users/Usuario/Documents/Visual/Lab10/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
